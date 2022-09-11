@@ -1,0 +1,3 @@
+# list of require libraries
+snowflake-connector-python
+cffi==1.15.0
